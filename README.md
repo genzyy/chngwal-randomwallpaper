@@ -11,3 +11,10 @@ A small python script to change the wallpaper from the terminal using `feh` in l
 - [ ] Able to use other wallpaper setting apps.
 - [ ] Turn it into cli-app.
 - [ ] Add other small python projects.
+
+
+## Usage ##
+```bash
+ alias chngwal="path-to-wallpaper.py"
+```
+Add the above line to your bashrc or zshrc
